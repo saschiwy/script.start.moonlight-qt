@@ -14,8 +14,8 @@
 		<website>https://github.com/saschiwy/script.start.moonlight-qt</website>
 		<email></email>
 		<assets>
-			<icon>icon.png</icon>
-			<fanart>GameStreamBack.jpg</fanart>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/GameStreamBack.jpg</fanart>
 		</assets>
 		<news></news>
 	</extension>
